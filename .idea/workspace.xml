@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30b1976a-54cc-4526-8fff-65761b6ebe80" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Андрей\Documents\GitHub\collections\src\com\lysenko\andrii\Example.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Андрей\Documents\GitHub\collections\src\com\lysenko\andrii\TextFile.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Андрей\Documents\GitHub\collections\src\com\lysenko\andrii\XMLFile.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Андрей\Documents\GitHub\collections\out\test\listStructures\com\lysenko\andrii\Book.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Андрей\Documents\GitHub\collections\out\test\listStructures\com\lysenko\andrii\Example$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Андрей\Documents\GitHub\collections\out\test\listStructures\com\lysenko\andrii\Example.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Андрей\Documents\GitHub\collections\out\test\listStructures\com\lysenko\andrii\Publisher.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Андрей\Documents\GitHub\collections\out\test\listStructures\com\lysenko\andrii\TextFile.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Андрей\Documents\GitHub\collections\out\test\listStructures\com\lysenko\andrii\XMLFile.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/listStructures/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/test/listStructures/.idea/workspace.xml" />
     </list>
     <ignored path="listStructures.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -434,12 +438,19 @@
       <created>1456421422132</created>
       <option name="number" value="Default" />
       <updated>1456421422132</updated>
-      <workItem from="1456421425106" duration="1955000" />
+      <workItem from="1456421425106" duration="3301000" />
     </task>
+    <task id="LOCAL-00001" summary="Delete of unnecessary classes from project">
+      <created>1456423772419</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1456423772419</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1955000" />
+    <option name="totallyTimeSpent" value="3301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="780" extended-state="0" />
@@ -452,7 +463,7 @@
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32886904" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28422618" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -492,6 +503,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Delete of unnecessary classes from project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete of unnecessary classes from project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
