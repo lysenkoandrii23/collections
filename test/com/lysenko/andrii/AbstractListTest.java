@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public abstract class AbstractListTest {
 
-    ArrayList list;
+    List list;
 
     @Before
     public abstract void setUp() throws Exception;
